@@ -1,0 +1,5 @@
+admin login auf django seite:
+
+admin
+admin@example.com
+pw.: changeme
